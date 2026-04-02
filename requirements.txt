@@ -1,0 +1,6 @@
+openai>=1.40.0
+gradio>=4.36.0
+librosa>=0.10.2
+numpy>=1.26.0
+soundfile>=0.12.1
+coqui-tts>=0.27.0
