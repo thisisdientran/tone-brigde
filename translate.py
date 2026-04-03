@@ -12,6 +12,7 @@ LANGUAGE_OPTIONS = {
     "Japanese": "ja",
     "Korean": "ko",
     "Vietnamese": "vi",
+    "English": "en",
 }
 
 
